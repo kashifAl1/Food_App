@@ -14,7 +14,7 @@
    ],
    "env": {
       "PORT": "4000",
-      "JWT_SECRET_key": "reandom#secret",
+      "JWT_SECRET": "reandom#secret",
       "STRIPE_SECRET_KEY": "sk_test_51Q1vT506JUYZnN73qcY8kZxeMa2BRPZws3jR6f3cbDGAviPnHixjstRIpY3cw8l8ds4tmuZkiL3nA6oJkaEiSmNS006tGd1WNq"
    }
 }
