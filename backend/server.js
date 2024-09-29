@@ -9,12 +9,12 @@ import orderRouter from './routes/order.route.js'
 
 // App config
 let app = express()
-let port = process.env.PORT || 4000
+let port = process.env.PORT || 5000
 
 
 // middleware
 app.use(express.json())
-app.use()
+app.use(cors())
 
 
 // DB Connection
